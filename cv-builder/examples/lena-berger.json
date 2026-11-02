@@ -1,0 +1,68 @@
+{
+  "level": "mid",
+  "template": 5,
+  "style": "e3xler",
+  "lang": "de",
+  "photo": false,
+  "cv": {
+    "name": "Lena Berger",
+    "title": "Product Managerin",
+    "email": "lena.berger@example.com",
+    "phone": "+49 170 123 45 67",
+    "location": "Köln, Deutschland",
+    "website": "",
+    "linkedin": "linkedin.com/in/lena-berger-example",
+    "birth": "",
+    "nationality": "",
+    "summary": "Product Managerin mit 5 Jahren Erfahrung in E-Commerce und B2B-SaaS. Ich übersetze Kundenprobleme in klare Roadmaps und messe Erfolg an Zahlen, nicht an Features.",
+    "experience": [
+      {
+        "role": "Product Managerin",
+        "company": "Rheinwerk Commerce",
+        "location": "Köln",
+        "start": "04/2022",
+        "end": "heute",
+        "bullets": [
+          "Checkout neu aufgesetzt, Abbruchquote von 71 % auf 58 % gesenkt.",
+          "Discovery mit 40 Kundeninterviews pro Quartal eingeführt.",
+          "Team aus 6 Entwickler:innen und 1 Designerin durch 3 Releases pro Monat geführt."
+        ]
+      },
+      {
+        "role": "Associate Product Manager",
+        "company": "Datenhafen GmbH",
+        "location": "Hamburg",
+        "start": "09/2020",
+        "end": "03/2022",
+        "bullets": [
+          "Onboarding für neue Kund:innen von 10 auf 4 Tage verkürzt.",
+          "Produktanalytik mit Amplitude aufgebaut."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. Wirtschaftsinformatik",
+        "school": "Universität zu Köln",
+        "location": "Köln",
+        "start": "2018",
+        "end": "2020",
+        "note": ""
+      }
+    ],
+    "projects": [],
+    "skills": [
+      {"label": "Produkt", "items": "Discovery, Roadmapping, OKRs, A/B-Tests, Pricing"},
+      {"label": "Werkzeuge", "items": "Jira, Figma, Amplitude, SQL, Notion"}
+    ],
+    "rated": [],
+    "languages": [
+      {"name": "Deutsch", "label": "Muttersprache", "level": 5},
+      {"name": "Englisch", "label": "Verhandlungssicher", "level": 4}
+    ],
+    "certs": [
+      {"name": "Professional Scrum Product Owner I", "issuer": "Scrum.org", "date": "2021"}
+    ],
+    "interests": []
+  }
+}
